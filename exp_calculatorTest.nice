@@ -1,0 +1,26 @@
+Script started on 2019-10-08 12:00:32-04:00
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ pwd
+/home/bzargar/Tmp/CS2211a/Asn/asn2
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ date
+Tue Oct  8 12:00:39 EDT 2019
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ who am i
+bzargar  pts/37       2019-10-08 12:00
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ ./exp_calculator
+Enter a base value that is a positive float number:-1
+Enter a base value that is a positive float number:3
+Enter an exponent value that is a non-negative integer:-4
+Enter an exponent value that is a non-negative integer:4
+The result is 81.000000 
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ ./exp_calculator
+Enter a base value that is a positive float number:0
+Enter a base value that is a positive float number:1.5
+Enter an exponent value that is a non-negative integer:7
+The result is 17.085938 
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ /
+Enter a base value that is a positive float number:10
+Enter an exponent value that is a non-negative integer:2
+The result is 100.000000 
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn2[bzargar@compute asn2]$ exit
+exit
+
+Script done on 2019-10-08 12:03:06-04:00
